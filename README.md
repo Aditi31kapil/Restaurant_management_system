@@ -54,45 +54,5 @@ If you would like to contribute to the project, please follow these steps:
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-## images
-<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-  <ol class="carousel-indicators">
-    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-  </ol>
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-
-      <img class="d-block w-100" src="![Screenshot 2024-06-20 004225](https://github.com/Aditi31kapil/Restaurant_management_system/assets/151728032/443de7ce-08cf-49c0-a7c8-c45801958325)/800x400" alt="First slide">
-    </div>
-    <div class="carousel-item">
-      <img class="d-block w-100" src="https://via.placeholder.com/800x400" alt="Second slide">
-    </div>
-    <div class="carousel-item">
-
-      <img class="d-block w-100" src="![Screenshot 2024-06-20 004306](https://github.com/Aditi31kapil/Restaurant_management_system/assets/151728032/f5bd8fc2-bb3a-4a53-8875-0b2ecd2ca054)/800x400" alt="Third slide">
-    </div>
-<div class="carousel-inner">
-    <div class="carousel-item active">
-      <img class="d-block w-100" src="![Screenshot 2024-06-20 004338](https://github.com/Aditi31kapil/Restaurant_management_system/assets/151728032/e6aa7b00-3489-4b16-b560-a0998eac8e7f)
-ve">/800x400" alt="First slide">
-    </div>
-<div class="carousel-inner">
-    <div class="carousel-item active">
-      <img class="d-block w-100" src="![Screenshot 2024-06-20 004426](https://github.com/Aditi31kapil/Restaurant_management_system/assets/151728032/0190856b-2c5e-4aee-8c56-ec15ac909eb8)
-/800x400" alt="First slide">
-    </div>
-
-  </div>
-  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
-</div>
 
 ```
